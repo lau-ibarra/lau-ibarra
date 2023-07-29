@@ -1,8 +1,11 @@
 ### Hi there 👋 I'm Laura Ibarra Molas
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=lau-ibarra)](https://github.com/lau-ibarra/github-profile-trophy)
+
 
 <!--
+[![trophy](https://github-profile-trophy.vercel.app/?username=lau-ibarra)](https://github.com/lau-ibarra/github-profile-trophy)
+
+
 **lau-ibarra/lau-ibarra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
