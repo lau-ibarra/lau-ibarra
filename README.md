@@ -1,6 +1,6 @@
 ### Hi there 👋 I'm Laura Ibarra Molas
 
-[Sígueme en LinkedIn](www.linkedin.com/comm/mynetwork/discovery-see-all?usecase=PEOPLE_FOLLOWS&followMember=lauraibarra)
+[Follow me on LinkedIn](www.linkedin.com/comm/mynetwork/discovery-see-all?usecase=PEOPLE_FOLLOWS&followMember=lauraibarra)
 
      
 <!--
