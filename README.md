@@ -1,7 +1,7 @@
 ### Hi there 👋 I'm Laura Ibarra Molas
 
 
-[<img src="https://learn.microsoft.com/media/learn/certification/badges/microsoft-certified-associate-badge.svg" width="15" height="150">](https://learn.microsoft.com/api/credentials/share/es-es/lau-ibarra/493E5A5E737D3F5F?sharingId=CC6F07885E6D3A22)
+[<img src="https://learn.microsoft.com/media/learn/certification/badges/microsoft-certified-associate-badge.svg" width="150" height="150">](https://learn.microsoft.com/api/credentials/share/es-es/lau-ibarra/493E5A5E737D3F5F?sharingId=CC6F07885E6D3A22)
 
 <div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="9ace5f54-b923-426c-8c9e-b8e5904ddb65" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
 
