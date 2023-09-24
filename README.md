@@ -1,12 +1,14 @@
 ### Hi there 👋 I'm Laura Ibarra Molas
 
-
+<p float="left">
 [<img src="https://learn.microsoft.com/media/learn/certification/badges/microsoft-certified-associate-badge.svg" width="150" height="150">](https://learn.microsoft.com/api/credentials/share/es-es/lau-ibarra/493E5A5E737D3F5F?sharingId=CC6F07885E6D3A22)
 
 [<img src="https://learn.microsoft.com/media/learn/certification/badges/microsoft-certified-fundamentals-badge.svg" width="150" height="150">](https://learn.microsoft.com/api/credentials/share/es-es/lau-ibarra/EB5F8DCD604C435?sharingId=CC6F07885E6D3A22)
+</p>
 
+<p float="left">
 [<img src="https://images.credly.com/size/340x340/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png" width="150" height="150">](https://www.credly.com/badges/9ace5f54-b923-426c-8c9e-b8e5904ddb65/public_url)
-
+</p>
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/lauraibarra/) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/lau.ibarram)  [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/lau_ibarra) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@lau.ibarra) 
